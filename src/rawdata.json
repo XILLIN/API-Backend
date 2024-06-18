@@ -1,0 +1,911 @@
+{
+  "country": "ประเทศไทย",
+  "administrative_region": "สสว.08",
+  "region": "ภาคกลาง",
+  "database_year": 2566,
+  "provinces": [
+    {
+      "province_code": "62",
+      "province_name": "กำแพงเพชร",
+      "administrative_region": "ภาคกลาง",
+      "base_year": 2566,
+      "area": 8607,
+      "population_2566": 704948,
+      "number_households": 154819,
+      "municipality": {
+        "province_municipality": 1,
+        "city_municipality": 0,
+        "town_municipality": 3,
+        "district_municipality": 22,
+        "local_administration_organization": 64
+      },
+      "Populationdata": [
+        {
+          "Population": [
+            {
+              "year": 2023,
+              "chiledren": {
+                "male": {
+                  "babe": 2197,
+                  "age_0_6": 21008,
+                  "age_7_17": 47228,
+                  "age_18_25": 35453
+                },
+                "female": {
+                  "babe": 19482,
+                  "age_0_6": 44020,
+                  "age_7_17": 47228,
+                  "age_18_25": 34099
+                }
+              },
+              "male": {
+                "age_0_17": 68236,
+                "age_18_25": 35453,
+                "age_26_59": 176097,
+                "age_60plus": 65780
+              },
+              "female": {
+                "age_0_17": 63502,
+                "age_18_25": 34099,
+                "age_26_59": 178100,
+                "age_60plus": 80282
+              }
+            }
+          ],
+          "ChildDependencyRatio": [
+            {
+              "year": 2023,
+              "ratio": 0.5
+            }
+          ],
+          "Newborn": [
+            {
+              "year": 2564,
+              "male": 2197,
+              "female": 2060,
+              "total": 4257,
+              "rate": 6
+            },
+            {
+              "year": 2565,
+              "male": 1999,
+              "female": 1835,
+              "total": 3834,
+              "rate": 5
+            },
+            {
+              "year": 2566,
+              "male": 2037,
+              "female": 1957,
+              "total": 3994,
+              "rate": 6
+            }
+          ],
+          "ChildWelfare": [
+            {
+              "year": 2563,
+              "proportion_good_height_for_age": 57.46
+            },
+            {
+              "year": 2564,
+              "proportion_good_height_for_age": 58.18
+            },
+            {
+              "year": 2565,
+              "proportion_good_height_for_age": 52.09
+            },
+            {
+              "year": 2566,
+              "proportion_good_height_for_age": 52.58
+            }
+          ],
+          "OrphanageChild": [
+            {
+              "number_of_children": 47
+            }
+          ],
+          "OrphanageFamily": [
+            {
+              "number_of_families": 47
+            }
+          ],
+          "ChildCare": [
+            {
+              "year": 2563,
+              "pregnant_under_15": 21,
+              "pregnant_under_20_repeat": 11,
+              "children_born_to_mothers_15_19_per_thousand": 22,
+              "children_born_to_mothers_10_14_per_thousand": 1,
+              "single_registered_mother": 200,
+              "single_registered_mother_privilege": 150,
+              "single_registered_mother_compensation": 50,
+              "single_registered_mother_young": 80,
+              "single_registered_mother_young_privilege": 60,
+              "single_registered_mother_young_compensation": 20
+            },
+            {
+              "year": 2564,
+              "pregnant_under_15": 31,
+              "pregnant_under_20_repeat": 10,
+              "children_born_to_mothers_15_19_per_thousand": 18,
+              "children_born_to_mothers_10_14_per_thousand": 1,
+              "single_registered_mother": 200,
+              "single_registered_mother_privilege": 150,
+              "single_registered_mother_compensation": 50,
+              "single_registered_mother_young": 80,
+              "single_registered_mother_young_privilege": 60,
+              "single_registered_mother_young_compensation": 20
+            },
+            {
+              "year": 2565,
+              "pregnant_under_15": 6,
+              "pregnant_under_20_repeat": 11,
+              "children_born_to_mothers_15_19_per_thousand": 13,
+              "children_born_to_mothers_10_14_per_thousand": 0,
+              "single_registered_mother": 200,
+              "single_registered_mother_privilege": 150,
+              "single_registered_mother_compensation": 50,
+              "single_registered_mother_young": 80,
+              "single_registered_mother_young_privilege": 60,
+              "single_registered_mother_young_compensation": 20
+            },
+            {
+              "year": 2566,
+              "pregnant_under_15": 25,
+              "pregnant_under_20_repeat": 12,
+              "children_born_to_mothers_15_19_per_thousand": 16,
+              "children_born_to_mothers_10_14_per_thousand": 1,
+              "single_registered_mother": 1780,
+              "single_registered_mother_privilege": 1270,
+              "single_registered_mother_compensation": 1268,
+              "registered_mother_young": 4660,
+              "registered_mother_young_privilege": 3384,
+              "registered_mother_young_compensation": 3359,
+              "single_registered_mother_young": 320,
+              "single_registered_mother_young_privilege": 279,
+              "single_registered_mother_young_compensation": 278
+            }
+          ],
+          "StreetChildren": [
+            {
+              "number_of_children": 3
+            }
+          ]
+        }
+      ],
+      "labordata":[{
+        "Labor": [
+          {
+            "year": 2563,
+            "in_system": 105747,
+            "out_system": 310797
+          },
+          {
+            "year": 2564,
+            "in_system": 106198,
+            "out_system": 295244
+          }
+        ],
+        "ForeignWorker": [
+          {
+            "year": 2563,
+            "total": 6160
+          },
+          {
+            "year": 2564,
+            "total": 6021
+          },
+          {
+            "year": 2565,
+            "total": 7517
+          },
+          {
+            "year": 2566,
+            "total": 5862
+          }
+        ],
+        "HouseholdSaving": [
+          {
+            "year": 2566,
+            "percentage": 100
+          }
+        ],
+        "Unemployment": [
+          {
+            "total": 9970,
+            "male": 5168,
+            "female": 4802,
+            "unemployment_rate": {
+              "63": 1.84728225341652,
+              "64": 3.19234200535078,
+              "65": 2.24248151356476,
+              "66": 2.21722554714607
+            }
+          }
+        ],
+        "employment": [
+          {
+            "totalEmployed": 449666,
+            "maleEmployed": 238562,
+            "femaleEmployed": 211104,
+            "totalElderlyEmployed": 201207,
+            "maleElderlyEmployed": 85642,
+            "femaleElderlyEmployed": 115565,
+            "elderlyToTotalEmploymentRatio": 46.3011355614905
+          }
+        ],
+        "LaborForce": [
+          {
+            "year": 2566,
+            "gender": "female",
+            "employment_type": "formal",
+            "total_workers": 46443
+          },
+          {
+            "year": 2566,
+            "gender": "male",
+            "employment_type": "formal",
+            "total_workers": 54682
+          },
+          {
+            "year": 2566,
+            "gender": "female",
+            "employment_type": "informal",
+            "total_workers": 161882
+          },
+          {
+            "year": 2566,
+            "gender": "male",
+            "employment_type": "informal",
+            "total_workers": 171565
+          },
+          {
+            "year": 2565,
+            "gender": "female",
+            "employment_type": "formal",
+            "total_workers": 41823
+          },
+          {
+            "year": 2565,
+            "gender": "male",
+            "employment_type": "formal",
+            "total_workers": 54242
+          },
+          {
+            "year": 2565,
+            "gender": "female",
+            "employment_type": "informal",
+            "total_workers": 140660
+          },
+          {
+            "year": 2565,
+            "gender": "male",
+            "employment_type": "informal",
+            "total_workers": 181097
+          },
+          {
+            "year": 2564,
+            "gender": "female",
+            "employment_type": "formal",
+            "total_workers": 44714
+          },
+          {
+            "year": 2564,
+            "gender": "male",
+            "employment_type": "formal",
+            "total_workers": 61483
+          },
+          {
+            "year": 2564,
+            "gender": "female",
+            "employment_type": "informal",
+            "total_workers": 138845
+          },
+          {
+            "year": 2564,
+            "gender": "male",
+            "employment_type": "informal",
+            "total_workers": 156399
+          },
+          {
+            "year": 2563,
+            "gender": "female",
+            "employment_type": "formal",
+            "total_workers": 47369
+          },
+          {
+            "year": 2563,
+            "gender": "male",
+            "employment_type": "formal",
+            "total_workers": 58377
+          },
+          {
+            "year": 2563,
+            "gender": "female",
+            "employment_type": "informal",
+            "total_workers": 142077
+          },
+          {
+            "year": 2563,
+            "gender": "male",
+            "employment_type": "informal",
+            "total_workers": 169720
+          }  
+        ],
+        "Article": [
+          {
+            "year" : 2563,
+            "article_33": 33438,
+            "article_39": 6917,
+            "article_40": 38287
+          },
+          {
+            "year" : 2564,
+            "article_33": 33527,
+            "article_39": 7563,
+            "article_40": 44670
+          },
+          {
+            "year" : 2565,
+            "article_33": 33451,
+            "article_39": 7513,
+            "article_40": 48798
+          },
+          {
+            "year" : 2566,
+            "article_33": 32675,
+            "article_39": 6984,
+            "article_40": 50035
+          }
+        ]
+      }],
+      "Educationdata" : [{
+        "Student": [
+          {
+            "year": 2566,
+            "disadvantaged": {
+              "total": 7191,
+              "special": 7510,
+              "combined": 14701
+            },
+            "dropouts": {
+              "total": 41,
+              "male": 23,
+              "female": 18
+            },
+            "underprivileged": {
+              "total": 44364,
+              "male": 22613,
+              "female": 21751
+            },
+            "hardships": {
+              "street_children": 45,
+              "minority_groups": 16,
+              "abandoned_children": 17,
+              "forced_child_labor": 0,
+              "abused_children": 0,
+              "drug_abuse": 0,
+              "involved_in_sex_trade": 0,
+              "institutionalized_children": 1,
+              "impoverished_children": 44045,
+              "delinquents": 3,
+              "self_supporting": 4,
+              "AIDS_affected": 0,
+              "multiple_categories": 233
+            },
+            "school_dropout": {
+              "total": 41,
+              "male": 23,
+              "female": 18
+            },
+            "G1_2566": {
+              "total": 311,
+              "male": 148,
+              "female": 163
+            },
+            "G2_2565": {
+              "total": 297,
+              "male": 148,
+              "female": 149
+            },
+            "average_years_of_education": {
+              "aye62": 7,
+              "aye63": 7,
+              "aye64": 8,
+              "aye65": 8
+            }
+          }
+        ],
+        "Kindergarten": [
+          {
+            "state_kindergarten_schools": 0,
+            "private_kindergarten_schools": 165,
+            "public_kindergarten_schools": 6337,
+            "bangkok_pattaya_kindergarten_schools": 0,
+            "total_kindergarten_schools": 6502,
+            "state_preparatory_schools": 9811,
+            "private_preparatory_schools": 4537,
+            "public_preparatory_schools": 1013,
+            "bangkok_pattaya_preparatory_schools": 0,
+            "total_preparatory_schools": 15361,
+            "state_before_primary_schools": 10,
+            "private_before_primary_schools": 10,
+            "public_before_primary_schools": 10,
+            "bangkok_pattaya_before_primary_schools": 10,
+            "total_before_primary_schools": 10,
+            "state_primary_schools": 32759,
+            "private_primary_schools": 11234,
+            "public_primary_schools": 1388,
+            "bangkok_pattaya_primary_schools": 0,
+            "total_primary_schools": 45381,
+            "state_lower_secondary_schools": 21136,
+            "private_lower_secondary_schools": 690,
+            "public_lower_secondary_schools": 718,
+            "bangkok_pattaya_lower_secondary_schools": 0,
+            "total_lower_secondary_schools": 22544,
+            "state_upper_secondary_schools": 13265,
+            "private_upper_secondary_schools": 0,
+            "public_upper_secondary_schools": 499,
+            "bangkok_pattaya_upper_secondary_schools": 0,
+            "total_upper_secondary_schools": 13764,
+            "state_vocational_certificate_office": 3785,
+            "provincial_vocational_certificate_office": 88,
+            "total_vocational_certificate_office": 3873
+          }
+        ],
+        "EducationDepartment": [
+          {
+            "basic_education_committee_office": {
+              "name": "Basic Education Committee Office",
+              "total_offices": 415
+            },
+            "private_education_promotion_committee_office": {
+              "name": "Private Education Promotion Committee Office",
+              "total_offices": 37
+            },
+            "vocational_education_committee_office": {
+              "name": "Vocational Education Committee Office",
+              "total_offices": 4
+            },
+            "private_vocational_education_committee_office": {
+              "name": "Private Vocational Education Committee Office",
+              "total_offices": 1
+            },
+            "local_administration_promotion_department": {
+              "name": "Local Administration Promotion Department",
+              "total_offices": 7
+            },
+            "learning_promotion_department": {
+              "name": "Learning Promotion Department",
+              "total_offices": 11
+            },
+            "total_schools_in_system": 686,
+            "total_schools_all": 697
+          }
+        ],
+        "funeralAssistance": [
+          {
+            "year": 2563,
+            "count": 1
+          },
+          {
+            "year": 2564,
+            "count": 94
+          },
+          {
+            "year": 2565,
+            "count": 2016
+          },
+          {
+            "year": 2566,
+            "count": 2584
+          }
+        ],
+        "ViolenceCause": [
+          {
+            "drug_abuse": 5,
+            "alcohol_abuse": 2,
+            "gambling": 1,
+            "divorce": 1,
+            "jealousy": 4,
+            "revenge": 1,
+            "economic_stress": 0,
+            "physical_health_issues": 1,
+            "mental_health_issues": 4,
+            "feeling_of_empowerment": 1,
+            "alcohol_and_drug_abuse": 2,
+            "jealousy_and_revenge": 1,
+            "jealousy_and_divorce": 3,
+            "alcohol_and_revenge": 1,
+            "drug_and_revenge": 0
+          }
+        ],
+        "DomesticViolence": [
+          {
+            "male_victims": 2,
+            "female_victims": 25,
+            "total_victims": 27,
+            "aspects": {
+              "physical": 11,
+              "sexual": 5,
+              "emotional": 11,
+              "fatalities": 0
+            }
+          }
+        ],
+        "InappropriateBehavior": [
+          {
+            "year": 2023,
+            "behavior_type": "alcohol",
+            "count": 500
+          },
+          {
+            "year": 2022,
+            "behavior_type": "substance_abuse",
+            "count": 450
+          }
+        ],
+        "SexualBehavior": [
+          {
+            "year": 2023,
+            "behavior_type": "sexual_behavior",
+            "count": 300
+          }
+        ],
+        "OtherBehavior": [
+          {
+            "year": 2023,
+            "behavior_type": "other",
+            "count": 100
+          }
+        ],
+        "ChildAndYouth": [
+          {
+            "year": 2023,
+            "behavior_type": "behavior",
+            "count": 22
+          },
+          {
+            "year": 2023,
+            "behavior_type": "substance_abuse",
+            "count": 150
+          }
+        ]
+      }],
+      "RoadAccident": [
+        {
+          "year": 2563,
+          "injuries": 7669,
+          "disabilities": 0,
+          "fatalities": 123
+        },
+        {
+          "year": 2564,
+          "injuries": 6800,
+          "disabilities": 0,
+          "fatalities": 109
+        },
+        {
+          "year": 2565,
+          "injuries": 7036,
+          "disabilities": 1,
+          "fatalities": 149
+        },
+        {
+          "year": 2563,
+          "injuries": 4768,
+          "disabilities": 4,
+          "fatalities": 135
+        }
+      ],
+      "Riskandsafedata" : [{
+        "Case": [
+          {
+            "year": 2023,
+            "life": {
+              "male": 173,
+              "female": 91,
+              "unspecified": 44,
+              "total": 308
+            },
+            "property": {
+              "male": 327,
+              "female": 215,
+              "unspecified": 104,
+              "total": 646
+            },
+            "population_mid_66": 705257,
+            "life_per_100k": 43.6720231064704,
+            "property_per_100k": 91.5978146973373,
+            "life_ranking": 29,
+            "property_ranking": 61,
+            "drug_crime": {
+              "cases": {
+                "male": 4205,
+                "female": 165,
+                "unspecified": 165,
+                "total": 5208
+              },
+              "arrests": {
+                "male": 4467,
+                "female": 199,
+                "unspecified": 888,
+                "total": 5553
+              },
+              "cases_per_100k_population_mid_66": 738.454208891227,
+              "arrests_ranking": 69
+            },
+            "child_trafficking_victims": {
+              "male": 0,
+              "female": 0,
+              "total": 0
+            },
+            "adult_trafficking_victims": {
+              "male": 0,
+              "female": 0,
+              "total": 0
+            },
+            "total_trafficking_victims": 0
+          }
+        ]
+      }],
+      "Econamydata" : [{
+        "GDPPerCapita": [
+          {
+            "year": 2023,
+            "gdp_per_capita": {
+              "58": 129833,
+              "59": 13728,
+              "60": 141603,
+              "61": 153044,
+              "62": 153044,
+              "63": 134385,
+              "64": 141987
+            },
+            "growth_63_64": 6
+          }
+        ],
+        "AverageMonthlyIncome": [
+          {
+            "income": {
+              "60": 18771,
+              "62": 19264,
+              "64": 20941
+            }
+          }
+        ],
+        "Debt": [
+          {
+            "total_debt": {
+              "60": 210409.54,
+              "62": 179776.13,
+              "64": 218179.54
+            },
+            "categories": {
+              "for_household_expenses": 69129.37,
+              "for_non_agricultural_business": 6587.55,
+              "for_agricultural_business": 105158.08,
+              "for_education": 3548.35,
+              "for_house_and_land": 30412.66,
+              "others": 3343.52
+            }
+          }
+        ],
+        "InequalityCoefficient": [
+          {
+            "coefficient": {
+              "62": 0.25711,
+              "63": 0.25623,
+              "64": 0.24393,
+              "65": 0.25898
+            }
+          }
+        ]
+      }],
+      "Healtydata" : [{
+          "types": {
+            "hospital_community": 11,
+            "hospital_general": 1,
+            "hospital_center": 0,
+            "hospital_Subdistricthealthpromotion": 121,
+            "DistrictPublicHealthOffice": 11
+          },
+          "medical_personnel": [
+            {
+              "year": 2563,
+              "doc": 111,
+              "dent": 67,
+              "phar": 103,
+              "nurse": 1154
+            },
+            {
+              "year": 2564,
+              "doc": 178,
+              "dent": 67,
+              "phar": 107,
+              "nurse": 1198
+            },
+            {
+              "year": 2565,
+              "doc": 217,
+              "dent": 67,
+              "phar": 109,
+              "nurse": 1241
+            }
+          ],
+          "aob_data": [
+            {
+              "year": 2563,
+              "aob": 998
+            },
+            {
+              "year": 2564,
+              "aob": 1036
+            },
+            {
+              "year" : 2565,
+              "aob" : 1061
+            }
+          ],
+          "volunteer_data": [
+            {
+              "year": 2566,
+              "avt": 19284,
+              "population_mid_year": 705257,
+              "avt_per_people": 36.5721323376893
+            }
+          ],
+          "patient_data": [
+            {
+              "year": 2566,
+              "cumulativeCount": 16221,
+              "newCount": 809,
+              "oldAndNewCount": 17030,
+              "ratePerHundredThousand": 114.709956795891
+            },
+            {
+              "year" : 2565,
+              "cumulativeCount": 16917,
+              "newCount": 0,
+              "oldAndNewCount": 0,
+              "ratePerHundredThousand": 0
+            }
+          ],
+          "SuicideAttempt": [
+            {
+              "attempts": {
+                "63": 394,
+                "64": 233,
+                "65": 260,
+                "66": 437
+              }
+            }
+          ],
+          "SuicideSuccess": [
+            {
+              "count": 42,
+              "mid_year_population": 708881,
+              "success_rate": 5.92483082491984
+            }
+          ],
+          "HealthData": [
+            {
+              "total_patients": {
+                "2022": 17303,
+                "2023": 16917
+              },
+              "increase_decrease_rate_66": 0.6
+            }
+          ]
+      }],
+      "Elderdata" : [{
+        "EldersocialAssistance": [
+          {
+            "count": 150
+          }
+        ],
+        "housingAdjustment": [
+          {
+            "year": 2023,
+            "count": 50
+          },
+          {
+            "year": 2022,
+            "count": 45
+          }
+        ],
+        "elderlyKnowledge": [
+          {
+            "count": 200
+          }
+        ],
+        "elderlyFuneralHome": [
+          {
+            "count": 30
+          }
+        ],
+        "elderlySchool": [
+          {
+            "count": 25
+          }
+        ],
+        "elderlyLoan": [
+          {
+            "year": 2023,
+            "numberOfBorrowers": 100
+          },
+          {
+            "year": 2022,
+            "numberOfBorrowers": 90
+          }
+        ],
+        "ElderlyPopulation": [
+          {
+            "year": 2023,
+            "age_groups": {
+              "male_60_69": 5000,
+              "female_60_69": 6000,
+              "total_60_69": 11000,
+              "male_70_79": 4000,
+              "female_70_79": 5000,
+              "total_70_79": 9000,
+              "male_80_above": 2000,
+              "female_80_above": 3000,
+              "total_80_above": 5000,
+              "total_60_above": 25000
+            },
+            "total_population": 100000,
+            "elderly_population_ratio": 0.25
+          },
+          {
+            "year": 2022,
+            "age_groups": {
+              "male_60_69": 4800,
+              "female_60_69": 5800,
+              "total_60_69": 10600,
+              "male_70_79": 3900,
+              "female_70_79": 4900,
+              "total_70_79": 8800,
+              "male_80_above": 1900,
+              "female_80_above": 2900,
+              "total_80_above": 4800,
+              "total_60_above": 24200
+            },
+            "total_population": 98000,
+            "elderly_population_ratio": 0.246
+          }
+        ],
+        "ElderlyAllowance": [
+          {
+            "year": 2023,
+            "recipientCount": 15000
+          },
+          {
+            "year": 2022,
+            "recipientCount": 14000
+          }
+        ],
+        "screening": [
+          {
+            "year": 2023,
+            "category": "social",
+            "numberOfElderlyScreened": 1200,
+            "percentage": 0.12
+          },
+          {
+            "year": 2023,
+            "category": "home",
+            "numberOfElderlyScreened": 800,
+            "percentage": 0.08
+          },
+          {
+            "year": 2023,
+            "category": "bed",
+            "numberOfElderlyScreened": 400,
+            "percentage": 0.04
+          }
+        ]
+      }]
+    }
+  ]
+}
