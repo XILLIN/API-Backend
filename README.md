@@ -11,5 +11,5 @@ and u can run it require create .env in the folder connect to you database or mo
 
 /// infile .env
 
-Data_URI = "mongodb+srv://<USERNAME>:<PASSWORD>@other from MongoDB"
+Data_URI = "mongodb+srv://'<USERNAME>':'<PASSWORD>'@other from MongoDB"
 
