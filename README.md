@@ -9,7 +9,7 @@ npm run start-service
 
 and u can run it require create .env in the folder connect to you mongoDB
 
-/// infile .env
+/// create a .env and copy below and use your mongodb key
 
 Data_URI = "mongodb+srv://USERNAME:PASSWORD@other from MongoDB"
 
